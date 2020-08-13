@@ -1,5 +1,8 @@
 # Todo Projects / Problems
 Here are a few projects to work on:
+😁 - Easy
+😅 - Medium
+😖 - Hard
 | Done | Name                                                                                    | Level |
 |-----------------------------------------------------------------------------------------|-----|--------|
 | ✅ | Flutter Flashcard app that uses GitHub as the storage repo. | 😖 |
