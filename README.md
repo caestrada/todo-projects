@@ -1,7 +1,7 @@
 # Todo Projects / Problems
 Here are a few projects to work on:
 
-| Done | Name                                                                                    | Level |
+| Done | Name                                                                                    | Level (😁 - Easy, 😅 - Medium, 😖 - Hard)  |
 |-----------------------------------------------------------------------------------------|-----|--------|
 | ✅ | Flutter Flashcard app that uses GitHub as the storage repo. | 😖 |
 | ❌ | Build the layout and interactions of common web applications, such as the Netflix browser site. | 😅 |
