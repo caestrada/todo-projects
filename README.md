@@ -9,7 +9,5 @@ Here are a few projects to work on:
 | ❌ | Write a function similar to debounce or clone an object deeply. | 😁 |
 
 😁 - Easy
-
 😅 - Medium
-
 😖 - Hard
